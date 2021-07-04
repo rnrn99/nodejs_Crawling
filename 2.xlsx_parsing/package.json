@@ -1,0 +1,14 @@
+{
+  "name": "xlsx_parsing",
+  "version": "1.0.0",
+  "description": "xlsx parsing using node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "rnrn99",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.17.0"
+  }
+}
